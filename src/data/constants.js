@@ -2,15 +2,13 @@ export const Bio = {
   name: "PRATHVIRAJ HOLLA",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
-    "UI/UX Designer",
     "Programmer",
   ],
   description:
     "I'm someone who loves learning and is always excited to try new things. I work hard to do my best and deliver good results. I believe in staying positive and always trying to improve.",
   github: "https://github.com/PRATHVIRAJ67",
   resume:
-    "https://drive.google.com/file/d/1IfY2qGvVLQQYrRwMiFZ94Flg4EIyl2yC/view?usp=drivesdk ",
+    "https://drive.google.com/file/d/1n-EWbdz1zrbixY_G57O3ym5WCMxAHOs3/view ",
   linkedin: "https://www.linkedin.com/in/prathviraj-holla-727a98256/",
   
  
@@ -173,7 +171,8 @@ export const experiences = [
     role: "SDE INTERN AT NIVEUS SOLUTIONS",
     company: "Niveus Solutions",
     date: "November 2023 - April 2023",
-    desc: "I have worked on building web applications using ReactJS, Redux, and Material UI for the frontend, and Node.js with Express for the backend, utilizing Locker as the database. Additionally, I have Worked in mobile application development with Flutter.",
+    desc: " 1. Built a dynamic platform to display client company sales data comparisons withcompetitor companies, featuring customizable graphs, switchable sales tables,and a sales funnel using React.js, Node.js, and Google Looker Studio 2.Created an API integration process thatreduced client onboarding time by50%,resulting in a 75% decrease in future migration efforts forthe development                                   3. Developed a securemobile banking app for a client, featuring userauthentication, KYC onboarding, financialretirement planning dashboard, anduser analytics using Flutter and FlutterFlow as a frontend and Firebase",
+   
     skills: [
       "Flutter",
       "React",
@@ -191,25 +190,25 @@ export const experiences = [
   },
   
 
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/download%20(1).jfif?alt=media&token=fe7fd667-a487-490d-8c41-05ea7e8dd542",
-    role: "Full Stack Developer Intern",
-    company: "Bharath Intern",
-    date: "November 2023 - December 2023",
-    desc: "Developed full-stack web applications using React.js for the frontend, Node.js for the backend, and MongoDB for the database.",
-    skills: [
-      "React",
-      "Node-Js",
-      "Express",
-      "Mongo-DB",
-      "Node Js",
-      "FireBase",
-      "Firebase",
-      "Figma",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/PRATHVIRAJ%20INTERNSHIP.jpg?alt=media&token=ccbfc24a-5844-40c7-a2f2-0dcab8232ab4",
-  },
+  // {
+  //   id: 1,
+  //   img: "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/download%20(1).jfif?alt=media&token=fe7fd667-a487-490d-8c41-05ea7e8dd542",
+  //   role: "Full Stack Developer Intern",
+  //   company: "Bharath Intern",
+  //   date: "November 2023 - December 2023",
+  //   desc: "Developed full-stack web applications using React.js for the frontend, Node.js for the backend, and MongoDB for the database.",
+  //   skills: [
+  //     "React",
+  //     "Node-Js",
+  //     "Express",
+  //     "Mongo-DB",
+  //     "Node Js",
+  //     "FireBase",
+  //     "Firebase",
+  //     "Figma",
+  //   ],
+  //   doc: "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/PRATHVIRAJ%20INTERNSHIP.jpg?alt=media&token=ccbfc24a-5844-40c7-a2f2-0dcab8232ab4",
+  // },
 ];
 
 export const education = [
@@ -275,21 +274,37 @@ export const projects = [
     webapp: "https://663a6c2291783637f59d00f7--tubular-macaron-4f167b.netlify.app/",
    
   },
-  
-  
   {
-    id: 3,
-    title: "HSBC-POC",
-    date: "Dec 2021 - Apr 2022",
+    id: 0,
+    title: "SOCIAL MEDIA WEBSITE",
+    date: "Apr 2023 - May 2024",
     description:
-      "I developed a banking application that streamlined financial transactions and provided users with secure access to their accounts. The app offered features such as account management, fund transfers, and transaction history tracking, enhancing the overall banking experience for customers",
+      " Utilized , TypeScript and React-js as Frontend Techstack and Tailwind for cssand Node Js as Backend, Appwrite as a database",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/WhatsApp%20Image%202024-05-08%20at%2005.16.33_14241924.jpg?alt=media&token=9d44c047-3146-46b8-a635-4d6dda2e7b70",
-    tags: ["Flutter", "Java", "FireBase"],
-    category: "android app",
-    github: "",
-    webapp: "",
+      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/Screenshot%202024-06-19%20223338sadasadsasda.png?alt=media&token=fe9c83c9-74d1-4b9e-ad11-5b8c9ccd7b22",
+    tags: ["React Js", "", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/PRATHVIRAJ67/SocialHub",
+    webapp: "https://social-hub-alpha.vercel.app/sign-in",
+   
   },
+  {
+    id: 0,
+    title: "REAL-TIME CHAT APPLICATION",
+    date: "May 2023 - June 2023",
+    description:
+      " Developed a real-time chat application using React, Node.js, Express.js,MongoDB, and Socket.io. Implemented secure authentication,real-timemessaging, and group chat features. Enhanced user experience withfunctionalities like message history, deletion, user blocking>",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/realtimne.png?alt=media&token=d799d880-0f30-43ed-a8ea-0a8989fcc700",
+    tags: ["React Js", "", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/PRATHVIRAJ67/RealTime-Chat-Application-",
+    webapp: "https://real-timechatapp.vercel.app/",
+   
+  },
+  
+  
+ 
   
 
   
