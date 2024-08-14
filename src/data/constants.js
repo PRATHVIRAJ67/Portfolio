@@ -8,7 +8,7 @@ export const Bio = {
     "I'm someone who loves learning and is always excited to try new things. I work hard to do my best and deliver good results. I believe in staying positive and always trying to improve.",
   github: "https://github.com/PRATHVIRAJ67",
   resume:
-    "https://drive.google.com/file/d/1n-EWbdz1zrbixY_G57O3ym5WCMxAHOs3/view ",
+    "https://drive.google.com/file/d/1MIfHOCfuw1aeh4nrmzom_dlHkLIQ_fG6/view?usp=drivesdk ",
   linkedin: "https://www.linkedin.com/in/prathviraj-holla-727a98256/",
   
  
