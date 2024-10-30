@@ -8,7 +8,7 @@ export const Bio = {
     "I'm someone who loves learning and is always excited to try new things. I work hard to do my best and deliver good results. I believe in staying positive and always trying to improve.",
   github: "https://github.com/PRATHVIRAJ67",
   resume:
-    "https://drive.google.com/file/d/1MIfHOCfuw1aeh4nrmzom_dlHkLIQ_fG6/view?usp=drivesdk ",
+    "https://drive.google.com/file/d/1QxsEmwZZ1xqxhVurHXV5WMKWWdHyxZBo/view?usp=drive_link ",
   linkedin: "https://www.linkedin.com/in/prathviraj-holla-727a98256/",
   
  
@@ -244,6 +244,35 @@ export const education = [
 export const projects = [
   {
     id: 9,
+    title: " ClimateCast",
+    date: "Jun 2024 - Jun 2024",
+    description:
+      " Developed a real-time weather app displaying key metrics like temperature, air pollution, UV index, wind speed, and a 5-day forecast. Features include automatic alerts every 10 seconds if the temperature exceeds 30°C, location selector,Kelvin temperature display, and a 5-day average temperature graph, with all data stored in a database.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/zeotap%20intern.png?alt=media&token=bc5678ca-0f75-4185-a26a-d176f008017d",
+    tags: [
+      " Next.js"," Tailwind CSS", "TypeScript"," Node.js","Express.js", "MongoDB",
+     
+    ], category: "web app",
+    github: "https://github.com/PRATHVIRAJ67/Weather--App",
+    webapp: "https://zeotap-assignment.vercel.app/",}, 
+    {id: 9,
+    title: "  AI Legacy Code Converter",
+    date: "May 2024 - Jun 2024",
+    description:
+      "  Developed a AI legacy code conversion tool designed to transform VB, Delphi, and COBOL code into modern programming languages like Java, Python etc. The solution includes integrated debugging, optimization, and  documentation tools to enhance the development process.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/Screenshot%202024-10-30%20174408.png?alt=media&token=ca756095-b493-4194-8153-9532eab98c22",
+    tags: [
+      "  React", "TypeScript", "Python", "PostgreSQL", "Mistral AI"," AWS S3",
+     
+    ],
+    category: "web app",
+    github: "https://github.com/PRATHVIRAJ67/CODEGRAM-MODERNIZING-LEGACY-CODE-Final?tab=readme-ov-file",
+    webapp: "https://codegram-modernizing-legacy-code-final.vercel.app/",
+  },
+  {
+    id: 9,
     title: "Medical Chat-Bot",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -300,6 +329,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/PRATHVIRAJ67/RealTime-Chat-Application-",
     webapp: "https://real-timechatapp.vercel.app/",
+   
+  }, {
+    id: 0,
+    title: "",
+    date: "May 2023 - June 2023",
+    description:
+      " This project is a 3-tier rule engine application that allows for the dynamic creation, combination, and modification of rules to determine user eligibility based on attributes such as age, department, income, spending habits, and more. The system leverages Abstract Syntax Trees (AST) to represent conditional rules, allowing them to be dynamically modified and efficiently evaluated against user data.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/authentication-5c66e.appspot.com/o/rule%20engine.png?alt=media&token=d6dda968-6e41-479c-8e83-998007e06506",
+    tags: ["HTML","CSS","Java Script","Python","Flask"],
+    category: "web app",
+    github: "https://github.com/PRATHVIRAJ67/Rule-App-latest",
+    webapp: "",
    
   },
   
