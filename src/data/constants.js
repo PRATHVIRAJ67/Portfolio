@@ -5,8 +5,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I'm someone who loves learning and is always excited to try new things. I work hard to do my best and deliver good results. I believe in staying positive and always trying to improve.",
-  github: "https://github.com/PRATHVIRAJ67",
+    "Hi, I am Prathviraj Holla I am a Full Stack Developer with expertise in frontend, backend, and mobile app development. I have worked as an SDE Intern at Niveus Solution, where I gained valuable experience in building and optimizing software solutions. I am also strong in core Java and enjoy solving problems on LeetCode.",
   resume:
     "https://drive.google.com/file/d/1CJpQBELoB1suCes5zuvLFiaFFcGywZK3/view",
   linkedin: "https://www.linkedin.com/in/prathviraj-holla-727a98256/",
